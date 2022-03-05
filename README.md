@@ -11,8 +11,8 @@
 ## 💸 Як дати грошей / How to donate money
 * Мультивалютний рахунок НБУ на Армію / Multicurrenncy account from National Bank of Ukraine for Army https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi
 * Мультивалютний рахунок НБУ на Гуманітарну Допомогу / Multicurrenncy account from National Bank of Ukraine for Humanitarian help https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi
-* Фонд "Повернись живим" (є рахунок в крипті)/ Safe Life fund (has cryptu wallet) https://savelife.in.ua/en/donate/
-* Підбірка як допомогти українською / Huge list of donation options for Ukrainianshttps://ain.ua/2022/03/01/yak-daty-groshej-ukrayinskij-armiyi-ta-medykam/
+* Фонд "Повернись живим" (є рахунок в крипті)/ Safe Life fund (has crypto wallet) https://savelife.in.ua/en/donate/
+* Підбірка як допомогти українською / Huge list of donation options for Ukrainians https://ain.ua/2022/03/01/yak-daty-groshej-ukrayinskij-armiyi-ta-medykam/
 * Швидкий переказ з будь-якої точки світу від Mono / Instant transfer from any card from Monobank (UA neo bank) https://uahelp.monobank.ua/
 * Рахунок на допомогу медикам спільно з Червоним Хрестом / Account to help UA doctors, together with Red Cross https://moz.gov.ua/article/news/moz-ta-chervonij-hrest-vidkrivajut-rahunok-dlja-dopomogi-medikam
 
