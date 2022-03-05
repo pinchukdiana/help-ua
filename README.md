@@ -1,5 +1,22 @@
 # Корисні лінки щоб допомогти Україні / Useful links to help Ukraine
 
+1. [Підбірки / Compilations](#%EF%B8%8F-%D0%BF%D1%96%D0%B4%D0%B1%D1%96%D1%80%D0%BA%D0%B8--compilations)
+2. [Як дати грошей / How to donate money](#-як-дати-грошей--how-to-donate-money)
+3. Волонтерство
+4. Склади гуманітарної допомоги 
+5. Біженці / Refugees
+6. Перетин кордону, статус біженця, тимчасовий захист / Crossing the border as a refugee, status of temporary protection
+7. Транспорт для біженців / Transport for refugees
+8. Транспорт - Черги на кордоні / Queues on the borders
+9. Транспорт - Україна / Ukraine
+10. Транспорт - ЄС / EU
+11. Житло для біженців / Housing for refugees 
+12. Житло - Міжнародні мережі / International chains 
+13. Житло - Детально по країнам / In detail per country 
+14. Психологічна допомога / Psychological assistance
+15. Кібервійсько / Cyber Army
+
+
 ## ❗️ Підбірки / Compilations
 ❗️ Скоріше за все, відповіді  на ваші питання **вже є тут** / Probably your question is **already answered here**
 * https://how-to-help-ukraine-now.super.site/
@@ -16,7 +33,8 @@
 * Швидкий переказ з будь-якої точки світу від Mono / Instant transfer from any card from Monobank (UA neo bank) https://uahelp.monobank.ua/
 * Рахунок на допомогу медикам спільно з Червоним Хрестом / Account to help UA doctors, together with Red Cross https://moz.gov.ua/article/news/moz-ta-chervonij-hrest-vidkrivajut-rahunok-dlja-dopomogi-medikam
 
-## 🤝 Волонтерство
+## 🤝 Волонтерство / Volunteering
+* Телеграм-бот для координації волонтерської допомоги / Telegram bot for coordination of volunteer help https://t.me/saveua_bot
 * Волонтерські чати (Хочу допомагати > Волонтерство) / Volunteer chats https://betha.in.ua/
 * Стати волонтером Червоного Хреста / Become a Red Cross volunteer https://forms.office.com/Pages/ResponsePage.aspx?id=3mXHzJAJ1EmoDylOKKH5IzVmTTZIlmtCvrHFDQ5dqWBUMEs1RjlINDNMWTcxOEc2TzhQRTE4SDFERS4u
 * Волонтерський Telegram канал / Volunteer Telegram channel https://t.me/VolunteerCountry 
@@ -24,7 +42,7 @@
 * Волонтерські Telegram-чати міст / Volunteer chats per Ukrainian cities https://docs.google.com/document/d/13b2N646bdPT18kb49fUrRdqb91286BoLdbaC2pMww5k/mobilebasic
 * Львів / Lviv https://uahelpers.com/
 
-## 📦 Склади гуманітарної допомоги 
+## 📦 Склади гуманітарної допомоги за кордоном / Storaged abroad for humanitarian help
 * Польща / Poland https://www.helpukraine.center/
 * Кілька країн (Нова пошта) / few countries (coordinated by Nova Poshta) https://www.facebook.com/Volodymyr.Popereshnyuk/posts/495989281883051
 * Фонд Сергія Притули / Serhii Prytula fund https://www.facebook.com/serhiyprytula/posts/509101497241122
@@ -32,7 +50,7 @@
 # Біженці / Refugees
 * Гарячі лінії в обласних центрах / Hotlines in regional centers https://twitter.com/MVS_UA/status/1500018752695504897
 
-## 🛂 Перетин кордону, статус біженця, тимчасовий захист 
+## 🛂 Перетин кордону, статус біженця, тимчасовий захист / Crossing the border as a refugee, status of temporary protection
 * Паспорти продовжують до 5 років / UA passports expiration will be extended up to 5 years https://www.facebook.com/dmsu.gov.ua/posts/610054230359223
 * Директива ЄС про тимчасовий захист / EU directive for temporary protection https://ec.europa.eu/commission/presscorner/detail/uk/ip_22_1469
 * Тимчасовий захист - що потрібно знати / Temporary protection - what you need to know https://www.dw.com/uk/tymchasovyi-zakhyst-yes-dlia-bizhentsiv-z-ukrainy-shcho-varto-znaty/a-61022607
@@ -102,7 +120,7 @@ https://takecarebnb.org/en/
 * Допомога в пошуку житла https://www.facebook.com/zdenek.hrib.primator/posts/994184077857927
 * Допомога з транспортом https://www.facebook.com/zhanna.romanchenkokapurova/posts/5288109521222138
 
-## 🧠 Психологічна допомога 
+## 🧠 Психологічна допомога / Psychological assistance
 * Підбірка / Compilation https://www.facebook.com/centr.sens/posts/4955067847873102
 * Як вберегти себе під час війни / How to take care of yourself during the war https://www.facebook.com/story.php?story_fbid=1870372599816529&id=100005314214481
 * Психологія воєнного часу / Psychology of war time https://twitter.com/erichhartmann_/status/1499158408922116097?s=21
