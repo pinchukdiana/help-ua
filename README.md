@@ -3,7 +3,7 @@
 1. [Підбірки / Compilations](#%EF%B8%8F-%D0%BF%D1%96%D0%B4%D0%B1%D1%96%D1%80%D0%BA%D0%B8--compilations)
 2. [Як дати грошей / How to donate money](#-як-дати-грошей--how-to-donate-money)
 3. [Волонтерство / Volunteering](#-волонтерство--volunteering)
-4. [Склади гуманітарної допомоги](#-склади-гуманітарної-допомоги-за-кордоном--storaged-abroad-for-humanitarian-help)
+4. [Склади гуманітарної допомоги / Storages abroad for humanitarian help](#-склади-гуманітарної-допомоги-за-кордоном--storaged-abroad-for-humanitarian-help)
 5. [Біженці / Refugees](#біженці--refugees)
 6. [Перетин кордону, статус біженця, тимчасовий захист / Crossing the border as a refugee, status of temporary protection](#-перетин-кордону-статус-біженця-тимчасовий-захист--crossing-the-border-as-a-refugee-status-of-temporary-protection)
 7. [Транспорт для біженців / Transport for refugees](#-транспорт-для-біженців--transport-for-refugees)
@@ -12,7 +12,7 @@
 10. [Транспорт - ЄС / EU](#єс--eu)
 11. [Житло для біженців / Housing for refugees](#-житло-для-біженців--housing-for-refugees)
 12. [Житло - Міжнародні мережі / International chains](#-міжнародні-мережі--international-chains)
-13. [Житло - Детально по країнам / In detail per country](#детально-по-країнам--in-detail-per-country)
+13. [Біженці - детально по країнам / Refugees - in detail per country](#детально-по-країнам--in-detail-per-country)
 14. [Психологічна допомога / Psychological assistance](#-психологічна-допомога--psychological-assistance)
 15. [Кібервійсько / Cyber Army](#-кібервійсько--cyber-army)
 
