@@ -62,6 +62,7 @@
 
 ### Черги на кордоні / Queues on the borders
 * Оновлення на західному кордоні / Updates on western borders https://www.facebook.com/zahidnuy.kordon
+* Мапа з чергами на кордоні / Map with queues on the borders https://www.mapotic.com/ukraine-border-crossings
 * Онлайн-таблиця черг / Online spreadsheet with queues https://docs.google.com/spreadsheets/d/e/2PACX-1vTmKNAxZn2cPpBqPHnRx9Hc_GPzfi7U92h05hkNuES6pA8l7IcbfdRELMkTBWGcBFoRkUdwlnfX889X/pubhtml?gid=0&single=true
 
 ### 🇺🇦 Україна / Ukraine
