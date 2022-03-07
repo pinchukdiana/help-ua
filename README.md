@@ -141,6 +141,8 @@ https://takecarebnb.org/en/
 
 ## 🧑‍🏫 Робота та навчання для біженців / Work and study for refugees
 *  Робота для українців за кордоном від Joblee / Work for ukrainians abroad from Joblee https://helpukrainians.jooble.org/
+*  Платформа UA talents / UA Talents platform https://www.uatalents.com/
+*  Платформа Hire Ukrainians affected by war https://hireforukraine.org/
 *  Португалія створить 11 тис робочих місць / Portugal will create 11 thousand workplaces https://www.portugalresident.com/ukrainian-refugees-to-portugal-will-have-over-11500-jobs-to-choose-from/
 *  Список університетів з підтримкою для українських студентів / List of universities which support UA students https://www.mariecuriealumni.eu/posts/more-and-more-universities-around-globe-support-ukraine-and-condemn-russian-invasion
 
