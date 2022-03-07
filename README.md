@@ -13,8 +13,9 @@
 11. [Житло для біженців / Housing for refugees](#-житло-для-біженців--housing-for-refugees)
 12. [Житло - Міжнародні мережі / International chains](#-міжнародні-мережі--international-chains)
 13. [Біженці - детально по країнам / Refugees - in detail per country](#детально-по-країнам--in-detail-per-country)
-14. [Психологічна допомога / Psychological assistance](#-психологічна-допомога--psychological-assistance)
-15. [Кібервійсько / Cyber Army](#-кібервійсько--cyber-army)
+14. [Біженці - робота й навчання](#-робота-та-навчання-для-біженців--work-and-study-for-refugees)
+15. [Психологічна допомога / Psychological assistance](#-психологічна-допомога--psychological-assistance)
+16. [Кібервійсько / Cyber Army](#-кібервійсько--cyber-army)
 
 
 ## ❗️ Підбірки / Compilations
