@@ -162,4 +162,5 @@ https://www.facebook.com/diia.education/posts/325938999501087
 * IT Army of Ukraine https://t.me/itarmyofukraine2022
 * Інтернет Війська України / Internet  troops of Ukraine https://t.me/ivukr
 * PR Agents of Ukraine https://t.me/secretagentsssbot 
+* UA Tech Power Slack and community https://ua-tech-power.com/
 
