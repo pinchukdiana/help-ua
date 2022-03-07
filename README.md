@@ -124,6 +124,7 @@
 * Інформація для новоприбулих в NL / Info for those who just  arrived to NL https://docs.google.com/document/d/1qhGBEe0K034zdOA1aBzYwFjzJDNx5Hb8tgByBekW2E4/edit
 https://takecarebnb.org/en/
 * Можливість відкрити безкоштовний банківський акаунт в Bunq / Ability to open free bank account in Bunq https://together.bunq.com/d/47908-update-for-ukrainian-refugees
+* Процедура реєстрації біженця в Нідерландах (повірте, ви цього не хочете) / Procedure of becoming a refugee in NL (believe me, you don't want it) https://t.me/chat_ukrainians_nl/34529
 
 ### 🇨🇿 Чехія / Czech Republic
 * Офіційна інформація https://www.mvcr.cz/clanek/informace-pro-obcany-ukrajiny.aspx?q=Y2hudW09Mg%3d%3d
