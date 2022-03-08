@@ -30,6 +30,7 @@
 * Мультивалютний рахунок НБУ на Армію / Multicurrenncy account from National Bank of Ukraine for Army https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi
 * Мультивалютний рахунок НБУ на Гуманітарну Допомогу / Multicurrenncy account from National Bank of Ukraine for Humanitarian help https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi
 * Фонд "Повернись живим" (є рахунок в крипті)/ Safe Life fund (has crypto wallet) https://savelife.in.ua/en/donate/
+* Підбірка англійською / The list of donation options in English https://supportukrainenow.org/donate
 * Підбірка як допомогти українською / Huge list of donation options for Ukrainians https://ain.ua/2022/03/01/yak-daty-groshej-ukrayinskij-armiyi-ta-medykam/
 * Швидкий переказ з будь-якої точки світу від Mono / Instant transfer from any card from Monobank (UA neo bank) https://uahelp.monobank.ua/
 * Рахунок на допомогу медикам спільно з Червоним Хрестом / Account to help UA doctors, together with Red Cross https://moz.gov.ua/article/news/moz-ta-chervonij-hrest-vidkrivajut-rahunok-dlja-dopomogi-medikam
@@ -66,6 +67,8 @@
 * Безкоштовні потяги ЄС / free train tickets EU https://t.me/mvs_ukraine/9073 і https://t.me/chat_ukrainians_nl/33820
 * Безкоштовні квитки на Flixbus / Free bus tickets on Flixbus https://www.flixbus.ua/pidtrymka-ukrainy
 * Як безпечно перевозити тварин / How to travel with animals safely https://t.me/FreeAnimals_Ukraine/32
+* Список від lowcostavia / The list from lowcostavia http://lowcostavia.com.ua/free-transport-for-ukrainians/
+* Про перевезення тварин по країнам / Transporting animals per country https://www.instagram.com/p/CaxpcTEtMkr/
 
 ### Черги на кордоні / Queues on the borders
 * Оновлення на західному кордоні / Updates on western borders https://www.facebook.com/zahidnuy.kordon
@@ -138,6 +141,7 @@ https://takecarebnb.org/en/
 
 ### 🇩🇪 Німеччина / Germany
 * Що робити по прибуттю в Берлін https://docs.google.com/document/d/1V8bnB61XUaFlom-Fy8l-gVmOUCnS_TUOtFoD13kzhN8/edit
+* Про вставання на облік https://berlin-hilft.com/2022/03/04/ukraine-infos-zu-registrierung-und-leistungsbeantragung-in-berlin/ і переклад https://t.me/chat_ukrainians_nl/35855
 
 ## 🧑‍🏫 Робота та навчання для біженців / Work and study for refugees
 *  Робота для українців за кордоном від Joblee / Work for ukrainians abroad from Joblee https://helpukrainians.jooble.org/
