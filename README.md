@@ -143,6 +143,10 @@ https://takecarebnb.org/en/
 * Що робити по прибуттю в Берлін https://docs.google.com/document/d/1V8bnB61XUaFlom-Fy8l-gVmOUCnS_TUOtFoD13kzhN8/edit
 * Про вставання на облік https://berlin-hilft.com/2022/03/04/ukraine-infos-zu-registrierung-und-leistungsbeantragung-in-berlin/ і переклад https://t.me/chat_ukrainians_nl/35855
 
+### 🇷🇴 Румунія / Romania
+* https://dopomoha.ro/
+* FB group https://www.facebook.com/groups/unitipentruucraina
+
 ## 🧑‍🏫 Робота та навчання для біженців / Work and study for refugees
 *  Робота для українців за кордоном від Joblee / Work for ukrainians abroad from Joblee https://helpukrainians.jooble.org/
 *  Платформа UA talents / UA Talents platform https://www.uatalents.com/
