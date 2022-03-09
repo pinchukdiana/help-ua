@@ -66,9 +66,12 @@
 * 100 000 безкоштовних авіаквитків від Wizzair / 100 000 free tickets from Wizzair https://wizzair.com/#/rescue
 * Безкоштовні потяги ЄС / free train tickets EU https://t.me/mvs_ukraine/9073 і https://t.me/chat_ukrainians_nl/33820
 * Безкоштовні квитки на Flixbus / Free bus tickets on Flixbus https://www.flixbus.ua/pidtrymka-ukrainy
-* Як безпечно перевозити тварин / How to travel with animals safely https://t.me/FreeAnimals_Ukraine/32
 * Список від lowcostavia / The list from lowcostavia http://lowcostavia.com.ua/free-transport-for-ukrainians/
+
+### 🐈 Прихисток та перевезення тварин / Shelter and transportation of animals
+* Як безпечно перевозити тварин / How to travel with animals safely https://t.me/FreeAnimals_Ukraine/32
 * Про перевезення тварин по країнам / Transporting animals per country https://www.instagram.com/p/CaxpcTEtMkr/
+* Група з пошуку прихистку для загублених та залишених тварин / Group for finising a shelter/new owner for lost animals https://t.me/houseforanimals
 
 ### Черги на кордоні / Queues on the borders
 * Оновлення на західному кордоні / Updates on western borders https://www.facebook.com/zahidnuy.kordon
