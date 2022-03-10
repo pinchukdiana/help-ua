@@ -102,6 +102,7 @@
 
 ### 🇺🇦 Україна / Ukraine
 * Житло в Україні / Temporary housing in Ukraine https://prykhystok.in.ua/
+* Житло в Україні / Temporary housing in Ukraine https://shelter.dopomagai.org/
 * Маркетплейс з пропозиціями допомоги, є категорія "житло" / Marketplace with various help, there is "housing category" https://potreba.org/
 * Львів https://zaxid.net/kudi_zvertatis_bizhentsyam_u_lvovi_ta_yak_yim_dopomogti_n1536966
 * Львів студія йоги біля вокзалу https://www.facebook.com/mogolivets/posts/5158389274211361
