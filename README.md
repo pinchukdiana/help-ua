@@ -4,18 +4,19 @@
 2. [Як дати грошей / How to donate money](#-як-дати-грошей--how-to-donate-money)
 3. [Волонтерство / Volunteering](#-волонтерство--volunteering)
 4. [Склади гуманітарної допомоги / Storages abroad for humanitarian help](#-склади-гуманітарної-допомоги-за-кордоном--storaged-abroad-for-humanitarian-help)
-5. [Біженці / Refugees](#біженці--refugees)
-6. [Перетин кордону, статус біженця, тимчасовий захист / Crossing the border as a refugee, status of temporary protection](#-перетин-кордону-статус-біженця-тимчасовий-захист--crossing-the-border-as-a-refugee-status-of-temporary-protection)
-7. [Транспорт для біженців / Transport for refugees](#-транспорт-для-біженців--transport-for-refugees)
-8. [Транспорт - Черги на кордоні / Queues on the borders](#черги-на-кордоні--queues-on-the-borders)
-9. [Транспорт - Україна / Ukraine](#-україна--ukraine)
-10. [Транспорт - ЄС / EU](#єс--eu)
-11. [Житло для біженців / Housing for refugees](#-житло-для-біженців--housing-for-refugees)
-12. [Житло - Міжнародні мережі / International chains](#-міжнародні-мережі--international-chains)
-13. [Біженці - детально по країнам / Refugees - in detail per country](#детально-по-країнам--in-detail-per-country)
-14. [Біженці - робота й навчання](#-робота-та-навчання-для-біженців--work-and-study-for-refugees)
-15. [Психологічна допомога / Psychological assistance](#-психологічна-допомога--psychological-assistance)
-16. [Кібервійсько / Cyber Army](#-кібервійсько--cyber-army)
+5. [Чат-боти / Chat-bots](#-чат-боти--chat-bots)
+6. [Біженці / Refugees](#біженці--refugees)
+7. [Перетин кордону, статус біженця, тимчасовий захист / Crossing the border as a refugee, status of temporary protection](#-перетин-кордону-статус-біженця-тимчасовий-захист--crossing-the-border-as-a-refugee-status-of-temporary-protection)
+8. [Транспорт для біженців / Transport for refugees](#-транспорт-для-біженців--transport-for-refugees)
+9. [Транспорт - Черги на кордоні / Queues on the borders](#черги-на-кордоні--queues-on-the-borders)
+10. [Транспорт - Україна / Ukraine](#-україна--ukraine)
+11. [Транспорт - ЄС / EU](#єс--eu)
+12. [Житло для біженців / Housing for refugees](#-житло-для-біженців--housing-for-refugees)
+13. [Житло - Міжнародні мережі / International chains](#-міжнародні-мережі--international-chains)
+14. [Біженці - детально по країнам / Refugees - in detail per country](#детально-по-країнам--in-detail-per-country)
+15. [Біженці - робота й навчання](#-робота-та-навчання-для-біженців--work-and-study-for-refugees)
+16. [Психологічна допомога / Psychological assistance](#-психологічна-допомога--psychological-assistance)
+17. [Кібервійсько / Cyber Army](#-кібервійсько--cyber-army)
 
 
 ## ❗️ Підбірки / Compilations
@@ -45,7 +46,8 @@
 * Волонтерські Telegram-чати міст / Volunteer chats per Ukrainian cities https://docs.google.com/document/d/13b2N646bdPT18kb49fUrRdqb91286BoLdbaC2pMww5k/mobilebasic
 * Львів / Lviv https://uahelpers.com/
 * Приєднатись до українського війська з-за кордону / Join UA troops https://fightforua.org/
-* Чат для пошуку зниклих людей в Україні https://t.me/poshuk_znyklyh
+* Чат для пошуку зниклих людей в Україні / Chat for searching for lost people https://t.me/poshuk_znyklyh
+* Шкільне навчання під час воєнного стану / Schooling during the war state https://t.me/chat_ukrainians_nl/40447
 
 ## 📦 Склади гуманітарної допомоги за кордоном / Storaged abroad for humanitarian help
 * Польща / Poland https://www.helpukraine.center/
@@ -53,14 +55,28 @@
 * Фонд Сергія Притули / Serhii Prytula fund https://www.facebook.com/serhiyprytula/posts/509101497241122
 * Гуманітарний коридор з ЄС залізницею / Railway humanitarian corridor http://railwayhelpsukraine.org/
 
+## 🤖 Чат-боти / Chat-bots
+* Бот для блокування сервісів дезінформації / Block desinformation https://t.me/stopdrugsbot
+* Бот для виявлення військ РФ / Communicate about russian troops https://t.me/stop_russian_war_bot
+* Чат-бот України для повідомлення про ворожі дії в Україні / Communicate about enemies https://t.me/ukraine_avanger_bot
+* Довідник практичних порад, як діяти у часі війни або надзвичайної інформації / Directories of useful info https://t.me/DovidkaInfo_bot та  https://t.me/Hotovyi_do_vsioho_bot
+* Бот для пошуку та надання домомоги / Search and provide help https://t.me/saveua_bot
+* Турбота - медичний бот, який знаходить лікарів для пацієнтів / Telemedicine bot https://t.me/Doc2rbot
+* Бот помічник для надання першої домедичної допомоги / First aid bot https://t.me/FirstAidRobot
+* Бот для пошуку житла / Chat-bot for housing search https://t.me/shelter_for_ukrainians_bot 
+* Бот від Мінцифри щоб отримати інформацію та допомогу в місцевих ЦНАПах https://t.me/turbotnyk_bot
+
+
 # Біженці / Refugees
 * Гарячі лінії в обласних центрах / Hotlines in regional centers https://twitter.com/MVS_UA/status/1500018752695504897
 
 ## 🛂 Перетин кордону, статус біженця, тимчасовий захист / Crossing the border as a refugee, status of temporary protection
 * Паспорти продовжують до 5 років / UA passports expiration will be extended up to 5 years https://www.facebook.com/dmsu.gov.ua/posts/610054230359223
+* Алгоритм дії після перетину кордону / Algorithm of actions after crossing the border https://t.me/UkraineNow/4214
 * Директива ЄС про тимчасовий захист / EU directive for temporary protection https://ec.europa.eu/commission/presscorner/detail/uk/ip_22_1469
 * Тимчасовий захист - що потрібно знати / Temporary protection - what you need to know https://www.dw.com/uk/tymchasovyi-zakhyst-yes-dlia-bizhentsiv-z-ukrainy-shcho-varto-znaty/a-61022607
 * Різниця між статусом біженця та тимчасовим захистом / Difference between status of refigee and temporary protection https://t.me/chat_ukrainians_nl/31600
+* Коротко і по суті про статус тимчасового захисту, гроші та ін / Short ans useful videos abour temporary protection, money etc https://www.youtube.com/playlist?list=PLMi4vCbIfdcvgzyLUJQTEWscrHEwfat1O
 
 ## 🚝 Транспорт для біженців / Transport for refugees
 * 100 000 безкоштовних авіаквитків від Wizzair / 100 000 free tickets from Wizzair https://wizzair.com/#/rescue
@@ -85,6 +101,7 @@
 * Авто від Bolt / Cars from Bolt https://www.instagram.com/p/Caj6Pv0sM5I/?utm_medium=copy_link
 * Канал з водіями, які пропонують допомогу / Telegram channel with drivers who can help https://t.me/pick_up_ukraine/2
 * Сайт, де можна знайти водіїв (категорія "транспорт") / A website, where you can find a driver (pick "transport" category) https://potreba.org/
+* Міжміська евакуація з Uklon / Evacuation between cities with Uklon https://t.me/crisis2022/3347
 
 ### 🇪🇺ЄС / EU
 * Доїхати від польського кордону https://www.facebook.com/groups/expatrepublic/posts/7197678470274275/
@@ -111,10 +128,13 @@
 * Кременчук гаряча лінія https://www.facebook.com/kremenpressa/posts/323614069812787
 * Кременчук центр тимчасового розміщення https://www.facebook.com/groups/488485442943947
 * Закарпаття https://t.me/winwin_realty
+* Закарпаття https://www.facebook.com/story.php?story_fbid=102575285726045&id=101944199122487
+* Бот для пошуку житла https://t.me/shelter_for_ukrainians_bot 
 
 ### 🇵🇱 Польща / Poland
 * https://polacyukrainie.com/ 
 * Мапа з житлом / Map with homes https://www.google.com/maps/d/u/0/viewer?mid=168CYAtRoeK_YIEnD8PJm6dx17d09xrSN&hl=pl 
+* Відповіді на найпоширеніші запитання про Польщу / FAQ about Poland for Ukrainian refugees https://static.im-g.pl/im/3/28186/m28186463,WITAMY-W-POLSCE.pdf
 
 ### 🇧🇬 Болгарія / Bulgaria
 * https://www.vitosha.vc/ukraine
@@ -134,6 +154,8 @@
 https://takecarebnb.org/en/
 * Можливість відкрити безкоштовний банківський акаунт в Bunq / Ability to open free bank account in Bunq https://together.bunq.com/d/47908-update-for-ukrainian-refugees
 * Процедура реєстрації біженця в Нідерландах (повірте, ви цього не хочете) / Procedure of becoming a refugee in NL (believe me, you don't want it) https://t.me/chat_ukrainians_nl/34529
+* Про медичну допомогу біженцям з України в Нідерландах / About medical assistance for Ukrainian refugees in NL https://www.instagram.com/p/Ca2LznnAatl/
+* 1000 готельних місць для біженців з України в Амстердамі / 1000 hotel beds for Ukrainian refugees in Amsterdam https://www.dutchnews.nl/news/2022/03/amsterdam-secures-1000-hotel-beds-for-ukrainian-refugees/
 
 ### 🇨🇿 Чехія / Czech Republic
 * Офіційна інформація https://www.mvcr.cz/clanek/informace-pro-obcany-ukrajiny.aspx?q=Y2hudW09Mg%3d%3d
@@ -148,17 +170,40 @@ https://takecarebnb.org/en/
 ### 🇩🇪 Німеччина / Germany
 * Що робити по прибуттю в Берлін https://docs.google.com/document/d/1V8bnB61XUaFlom-Fy8l-gVmOUCnS_TUOtFoD13kzhN8/edit
 * Про вставання на облік https://berlin-hilft.com/2022/03/04/ukraine-infos-zu-registrierung-und-leistungsbeantragung-in-berlin/ і переклад https://t.me/chat_ukrainians_nl/35855
+* Безкоштовна телемедицина для біженців з України в Німеччині / Free telemedicine for Ukrainian refugees in Germany https://www.medflex.de/help-ukraine
+* Портал для пошуку роботи / Job searching portal
+* Табличка з вакансіями, більшість в Берліні / Spreadsheets with open positions, mostly Berlin https://docs.google.com/spreadsheets/u/1/d/1o0_Tio_irbhlfHsomimJCEfYLgj47IZJooTWsCNJhH0/htmlview#gid=0
 
 ### 🇷🇴 Румунія / Romania
 * https://dopomoha.ro/
 * FB group https://www.facebook.com/groups/unitipentruucraina
+* https://refugees.ro/
 
 ## 🧑‍🏫 Робота та навчання для біженців / Work and study for refugees
-*  Робота для українців за кордоном від Joblee / Work for ukrainians abroad from Joblee https://helpukrainians.jooble.org/
+
+### Робота за кордоном / Work abroad
+*   Робота для українців за кордоном від Joblee / Work for ukrainians abroad from Joblee https://helpukrainians.jooble.org/
 *  Платформа UA talents / UA Talents platform https://www.uatalents.com/
 *  Платформа Hire Ukrainians affected by war https://hireforukraine.org/
-*  Португалія створить 11 тис робочих місць / Portugal will create 11 thousand workplaces https://www.portugalresident.com/ukrainian-refugees-to-portugal-will-have-over-11500-jobs-to-choose-from/
+*  Платформа Jobs for Ukraine https://www.jobs4ukraine.eu/
+*  Remote Ukraine https://remoteukraine.org/
+*  Ресурс з вакансіями Німеччина-Швейцарія / Vacancies in Switzerland and Germany https://www.jobaidukraine.com/
+*  HR-підтримка для найму українців / HR support for hiring Ukrainians https://hrforukraine.notion.site/
+*  Imagine Ukraine https://imagine-ukraine.org/
+*  Табличка з вакансіями, більшість в Берліні / Spreadsheets with open positions, mostly Berlin https://docs.google.com/spreadsheets/u/1/d/1o0_Tio_irbhlfHsomimJCEfYLgj47IZJooTWsCNJhH0/htmlview#gid=0
+
+### Канали з вакансіями / Channels with open positions
+*  https://t.me/jobforukrainians
+*  https://t.me/bazuwork
+*  https://t.me/zaichenkoteam
+*  https://happymonday.ua/jobs-search 
+
+
+### Навчання / Study
 *  Список університетів з підтримкою для українських студентів / List of universities which support UA students https://www.mariecuriealumni.eu/posts/more-and-more-universities-around-globe-support-ukraine-and-condemn-russian-invasion
+*  Ще кілька університетів / Few more universities https://happymonday.ua/universytety-zaproshuyut-ukrayinskyh-studentiv
+*  Vanarts announcement  https://www.vanarts.com/admissions/ukrainian-refugees/
+*  Лабораторії, які готові прийняти українських вчених / Labs supporting Ukrainian scientists https://docs.google.com/spreadsheets/d/1HqTKukfJGpmowQnSh4CoFn3T6HXcNS1T1pK-Xx9CknQ/htmlview#gid=320641758
 
 ## 🧠 Психологічна допомога / Psychological assistance
 * Підбірка / Compilation https://www.facebook.com/centr.sens/posts/4955067847873102
@@ -173,6 +218,8 @@ https://takecarebnb.org/en/
 * Група з допомогою / FB group with help https://www.facebook.com/groups/usp1996/
 * Група психологічної підтримки / Group with psychological support https://t.me/psyhelp_Ukraine
 * Список кризових психологів / List of crisis psychologists https://docs.google.com/spreadsheets/d/1oJRAPtPPEc83V6NmxUjmsYS6xl8WY9Mo9oMIS2vJrt8/edit#gid=630181891
+* Хаб стійкості - платформа психологічної допомоги / Resilience hub - platform for psychological help https://resiliencehub.com.ua/
+* Версія додатку Mindist для самостійної психологічної допомоги українцям / Version of Mindist app for Ukrainians for self-help [IOS](https://apps.apple.com/ua/app/mindist-your-wellness-mentor/id1597183616) [Android] (https://play.google.com/store/apps/details?id=io.mindist.member)
 
 ## 💻 Кібервійсько / Cyber Army
 https://www.facebook.com/diia.education/posts/325938999501087
