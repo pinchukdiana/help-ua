@@ -68,6 +68,7 @@
 
 
 # Біженці / Refugees
+* Документ з інформацією по країнам / One document with info for many countries https://docs.google.com/document/d/1OlZIz-72A2xI2uUOFE07L5ObQGP4JDcXZ2vdIs2P9BQ/preview?pru=AAABf4j50lE*PcyKLBcM1JQ2tJ_0RLrx6Q
 * Гарячі лінії в обласних центрах / Hotlines in regional centers https://twitter.com/MVS_UA/status/1500018752695504897
 
 ## 🛂 Перетин кордону, статус біженця, тимчасовий захист / Crossing the border as a refugee, status of temporary protection
