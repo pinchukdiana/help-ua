@@ -221,6 +221,7 @@ https://takecarebnb.org/en/
 * Список кризових психологів / List of crisis psychologists https://docs.google.com/spreadsheets/d/1oJRAPtPPEc83V6NmxUjmsYS6xl8WY9Mo9oMIS2vJrt8/edit#gid=630181891
 * Хаб стійкості - платформа психологічної допомоги / Resilience hub - platform for psychological help https://resiliencehub.com.ua/
 * Версія додатку Mindist для самостійної психологічної допомоги українцям / Version of Mindist app for Ukrainians for self-help [IOS](https://apps.apple.com/ua/app/mindist-your-wellness-mentor/id1597183616) [Android] (https://play.google.com/store/apps/details?id=io.mindist.member)
+* Багато корисних посилань про підтримку себе, близьких та дітей / Many useful links to support yourself, your family and children https://dou.ua/forums/topic/37046/
 
 ## 💻 Кібервійсько / Cyber Army
 https://www.facebook.com/diia.education/posts/325938999501087
