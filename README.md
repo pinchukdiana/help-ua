@@ -194,6 +194,7 @@ https://takecarebnb.org/en/
 *  Табличка з вакансіями, більшість в Берліні / Spreadsheets with open positions, mostly Berlin https://docs.google.com/spreadsheets/u/1/d/1o0_Tio_irbhlfHsomimJCEfYLgj47IZJooTWsCNJhH0/htmlview#gid=0
 
 ### Канали з вакансіями / Channels with open positions
+*  https://t.me/uajobnow
 *  https://t.me/jobforukrainians
 *  https://t.me/bazuwork
 *  https://t.me/zaichenkoteam
