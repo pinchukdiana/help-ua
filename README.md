@@ -222,6 +222,7 @@ https://takecarebnb.org/en/
 * Хаб стійкості - платформа психологічної допомоги / Resilience hub - platform for psychological help https://resiliencehub.com.ua/
 * Версія додатку Mindist для самостійної психологічної допомоги українцям / Version of Mindist app for Ukrainians for self-help [IOS](https://apps.apple.com/ua/app/mindist-your-wellness-mentor/id1597183616) [Android] (https://play.google.com/store/apps/details?id=io.mindist.member)
 * Багато корисних посилань про підтримку себе, близьких та дітей / Many useful links to support yourself, your family and children https://dou.ua/forums/topic/37046/
+* Як наша психіка переживає війну (відео + транскрипт) / How our psychics deals with war (video + transcript) https://dou.ua/lenta/articles/yak-nasha-psihika-perezhivaye-vijnu-dou-live-z-psihoterapevtom-edgarom-sobolyevim/
 
 ## 💻 Кібервійсько / Cyber Army
 https://www.facebook.com/diia.education/posts/325938999501087
