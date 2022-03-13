@@ -123,7 +123,7 @@
 * Житло в Україні / Temporary housing in Ukraine https://shelter.dopomagai.org/
 * Маркетплейс з пропозиціями допомоги, є категорія "житло" / Marketplace with various help, there is "housing category" https://potreba.org/
 * Львів https://zaxid.net/kudi_zvertatis_bizhentsyam_u_lvovi_ta_yak_yim_dopomogti_n1536966
-* Львів студія йоги біля вокзалу https://www.facebook.com/mogolivets/posts/5158389274211361
+* Львів https://www.facebook.com/story.php?story_fbid=1347639269031739&id=100013570352556
 * Хмельницький https://t.me/chat_ukrainians_nl/32602
 * Вінниця https://t.me/chat_ukrainians_nl/32626
 * Кременчук гаряча лінія https://www.facebook.com/kremenpressa/posts/323614069812787
