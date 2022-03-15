@@ -117,6 +117,7 @@
 * https://icanhelp.host/
 
 ## Детально по країнам / In detail per country 
+* Телеграм-чати по різним країнам https://www.facebook.com/permalink.php?story_fbid=1653440831683585&id=100010530519065
 
 ### 🇺🇦 Україна / Ukraine
 * Житло в Україні / Temporary housing in Ukraine https://prykhystok.in.ua/
@@ -174,6 +175,8 @@ https://takecarebnb.org/en/
 * Безкоштовна телемедицина для біженців з України в Німеччині / Free telemedicine for Ukrainian refugees in Germany https://www.medflex.de/help-ukraine
 * Портал для пошуку роботи / Job searching portal
 * Табличка з вакансіями, більшість в Берліні / Spreadsheets with open positions, mostly Berlin https://docs.google.com/spreadsheets/u/1/d/1o0_Tio_irbhlfHsomimJCEfYLgj47IZJooTWsCNJhH0/htmlview#gid=0
+* Група взаємодопомоги / Helpful group https://www.facebook.com/groups/718925522598800/
+* Група з житлом / Housing group https://www.facebook.com/groups/288084393475832/
 
 ### 🇷🇴 Румунія / Romania
 * https://dopomoha.ro/
@@ -192,6 +195,7 @@ https://takecarebnb.org/en/
 *  HR-підтримка для найму українців / HR support for hiring Ukrainians https://hrforukraine.notion.site/
 *  Imagine Ukraine https://imagine-ukraine.org/
 *  Табличка з вакансіями, більшість в Берліні / Spreadsheets with open positions, mostly Berlin https://docs.google.com/spreadsheets/u/1/d/1o0_Tio_irbhlfHsomimJCEfYLgj47IZJooTWsCNJhH0/htmlview#gid=0
+*  Робота для працівників креативної індустрії / Work for creative professions https://adaid.eu/uk/
 
 ### Канали з вакансіями / Channels with open positions
 *  https://t.me/uajobnow
