@@ -115,6 +115,7 @@
 * https://housinganywhere.com/ua/support-ukraine  (можна зареєструватись як господар / you can register as a host too)
 * https://mapahelp.me/
 * https://icanhelp.host/
+* https://housesforukraine.eu/
 
 ## Детально по країнам / In detail per country 
 * Телеграм-чати по різним країнам https://www.facebook.com/permalink.php?story_fbid=1653440831683585&id=100010530519065
@@ -147,17 +148,23 @@
 
 ### 🇳🇱 Нідерланди / Netherlands
 * Допомога, збір гуманітарки та інше - все тут / Everything in one place https://help-ukraine.nl/
-* Логістика, контакти водіїв / Logistics, contacts of drivers https://docs.google.com/spreadsheets/d/1-1vUlb-IUyk3lH-PgEkMFOiMPBd3a23lt4wYj7cF3Bo/edit#gid=2012219213
+* Чудова памʼятка / Great list of all known things for refugees like work and finance aid https://amsterdammer.ru/ukrainians_in_netherlands
+* Ще один сайт з допомогою / One more helpful website https://www.nl4ua.org/
+* Де розміщують українців / Housing for UA refugees https://www.nalog.nl/news/2022/03/14/15468/
 * ГО Українці в Нідерландах / NGO Ukrainians in Netherlands https://www.ukrainians.nl/language/en/
+* Телеграм-чат Українці в Нідерландах / Telegram-chat for Ukrainians in NL https://t.me/chat_ukrainians_nl
+* Телеграм-канал з корисними підбірками для українців (школи, фінанси і т.д.) / Telegram-channel with up to date info https://t.me/nalognl
 * Ви добрались до Нідерландів, що далі? / You;ve arrived to NL, what's next? https://livinginholland.blog/pervoe_ukr_nl/
 * Про особливий статус українців та що робити далі / About status of temporary protection and what's next https://www.nalog.nl/news/2022/03/04/osoblivij-status-ukra%D1%97nciv-u-es-pravo-na-zhitlo-ta-robotu-vidpovidi-na-najvazhlivishi-zapitannya/
 *  Допомога біженцям / Help for refugees https://www.vluchtelingenwerk.nl/nl/steun-oekraiense-vluchtelingen
 * Інформація для новоприбулих в NL / Info for those who just  arrived to NL https://docs.google.com/document/d/1qhGBEe0K034zdOA1aBzYwFjzJDNx5Hb8tgByBekW2E4/edit
 https://takecarebnb.org/en/
+* FAQ для приїжджих / FAQ for those who just arrived https://docs.google.com/document/d/15Uv1HC7NDhedTzMRMJkDq1MWW5sL-Dxk/edit
 * Можливість відкрити безкоштовний банківський акаунт в Bunq / Ability to open free bank account in Bunq https://together.bunq.com/d/47908-update-for-ukrainian-refugees
 * Процедура реєстрації біженця в Нідерландах (повірте, ви цього не хочете) / Procedure of becoming a refugee in NL (believe me, you don't want it) https://t.me/chat_ukrainians_nl/34529
 * Про медичну допомогу біженцям з України в Нідерландах / About medical assistance for Ukrainian refugees in NL https://www.instagram.com/p/Ca2LznnAatl/
 * 1000 готельних місць для біженців з України в Амстердамі / 1000 hotel beds for Ukrainian refugees in Amsterdam https://www.dutchnews.nl/news/2022/03/amsterdam-secures-1000-hotel-beds-for-ukrainian-refugees/
+* Логістика, контакти водіїв / Logistics, contacts of drivers https://docs.google.com/spreadsheets/d/1-1vUlb-IUyk3lH-PgEkMFOiMPBd3a23lt4wYj7cF3Bo/edit#gid=2012219213
 
 ### 🇨🇿 Чехія / Czech Republic
 * Офіційна інформація https://www.mvcr.cz/clanek/informace-pro-obcany-ukrajiny.aspx?q=Y2hudW09Mg%3d%3d
