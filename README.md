@@ -148,6 +148,7 @@
 
 ### 🇳🇱 Нідерланди / Netherlands
 * Допомога, збір гуманітарки та інше - все тут / Everything in one place https://help-ukraine.nl/
+* Карта пунктів гуманітарної допомоги / Map with humanitarian help locations http://humanitarian-help.war.in.ua/
 * Чудова памʼятка / Great list of all known things for refugees like work and finance aid https://amsterdammer.ru/ukrainians_in_netherlands
 * Ще один сайт з допомогою / One more helpful website https://www.nl4ua.org/
 * Де розміщують українців / Housing for UA refugees https://www.nalog.nl/news/2022/03/14/15468/
