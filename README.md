@@ -219,6 +219,8 @@ https://takecarebnb.org/en/
 *  Ще кілька університетів / Few more universities https://happymonday.ua/universytety-zaproshuyut-ukrayinskyh-studentiv
 *  Vanarts announcement  https://www.vanarts.com/admissions/ukrainian-refugees/
 *  Лабораторії, які готові прийняти українських вчених / Labs supporting Ukrainian scientists https://docs.google.com/spreadsheets/d/1HqTKukfJGpmowQnSh4CoFn3T6HXcNS1T1pK-Xx9CknQ/htmlview#gid=320641758
+*  Підтримка для студентів музичних напрямків / Support for students of music education institutions https://aec-music.eu/supporting-ukrainian-refugees/
+*  YAGP helps Ukrainian ballet students https://yagp.org/yagp-hotline-to-help-ukrainian-dancers-english/
 
 ## 🧠 Психологічна допомога / Psychological assistance
 * Підбірка / Compilation https://www.facebook.com/centr.sens/posts/4955067847873102
