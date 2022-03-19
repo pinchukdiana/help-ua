@@ -5,18 +5,19 @@
 3. [Волонтерство / Volunteering](#-волонтерство--volunteering)
 4. [Склади гуманітарної допомоги / Storages abroad for humanitarian help](#-склади-гуманітарної-допомоги-за-кордоном--storaged-abroad-for-humanitarian-help)
 5. [Чат-боти / Chat-bots](#-чат-боти--chat-bots)
-6. [Біженці / Refugees](#біженці--refugees)
-7. [Перетин кордону, статус біженця, тимчасовий захист / Crossing the border as a refugee, status of temporary protection](#-перетин-кордону-статус-біженця-тимчасовий-захист--crossing-the-border-as-a-refugee-status-of-temporary-protection)
-8. [Транспорт для біженців / Transport for refugees](#-транспорт-для-біженців--transport-for-refugees)
-9. [Транспорт - Черги на кордоні / Queues on the borders](#черги-на-кордоні--queues-on-the-borders)
-10. [Транспорт - Україна / Ukraine](#-україна--ukraine)
-11. [Транспорт - ЄС / EU](#єс--eu)
-12. [Житло для біженців / Housing for refugees](#-житло-для-біженців--housing-for-refugees)
-13. [Житло - Міжнародні мережі / International chains](#-міжнародні-мережі--international-chains)
-14. [Біженці - детально по країнам / Refugees - in detail per country](#детально-по-країнам--in-detail-per-country)
-15. [Біженці - робота й навчання](#-робота-та-навчання-для-біженців--work-and-study-for-refugees)
-16. [Психологічна допомога / Psychological assistance](#-психологічна-допомога--psychological-assistance)
-17. [Кібервійсько / Cyber Army](#-кібервійсько--cyber-army)
+6. [Медична допомога / Medical help](#медична-допомога--medical-help)
+7. [Біженці / Refugees](#біженці--refugees)
+8. [Перетин кордону, статус біженця, тимчасовий захист / Crossing the border as a refugee, status of temporary protection](#-перетин-кордону-статус-біженця-тимчасовий-захист--crossing-the-border-as-a-refugee-status-of-temporary-protection)
+9. [Транспорт для біженців / Transport for refugees](#-транспорт-для-біженців--transport-for-refugees)
+10. [Транспорт - Черги на кордоні / Queues on the borders](#черги-на-кордоні--queues-on-the-borders)
+11. [Транспорт - Україна / Ukraine](#-україна--ukraine)
+12. [Транспорт - ЄС / EU](#єс--eu)
+13. [Житло для біженців / Housing for refugees](#-житло-для-біженців--housing-for-refugees)
+14. [Житло - Міжнародні мережі / International chains](#-міжнародні-мережі--international-chains)
+15. [Біженці - детально по країнам / Refugees - in detail per country](#детально-по-країнам--in-detail-per-country)
+16. [Біженці - робота й навчання](#-робота-та-навчання-для-біженців--work-and-study-for-refugees)
+17. [Психологічна допомога / Psychological assistance](#-психологічна-допомога--psychological-assistance)
+18. [Кібервійсько / Cyber Army](#-кібервійсько--cyber-army)
 
 
 ## ❗️ Підбірки / Compilations
@@ -54,6 +55,7 @@
 * Кілька країн (Нова пошта) / few countries (coordinated by Nova Poshta) https://www.facebook.com/Volodymyr.Popereshnyuk/posts/495989281883051
 * Фонд Сергія Притули / Serhii Prytula fund https://www.facebook.com/serhiyprytula/posts/509101497241122
 * Гуманітарний коридор з ЄС залізницею / Railway humanitarian corridor http://railwayhelpsukraine.org/
+* Прийом гуманітарної допомоги із-за кордону від Meest express / Send humanitarian help from abroad with Meest Express https://ua.meest.com/news/novini-kompanii/gumanitra-posta-meest-z-evropi-kanadi-ta-ssa?utm_source=meest_help&utm_medium=media&utm_campaign=mesthelp
 
 ## 🤖 Чат-боти / Chat-bots
 * Бот для блокування сервісів дезінформації / Block desinformation https://t.me/stopdrugsbot
@@ -65,6 +67,14 @@
 * Бот помічник для надання першої домедичної допомоги / First aid bot https://t.me/FirstAidRobot
 * Бот для пошуку житла / Chat-bot for housing search https://t.me/shelter_for_ukrainians_bot 
 * Бот від Мінцифри щоб отримати інформацію та допомогу в місцевих ЦНАПах https://t.me/turbotnyk_bot
+* Бот для надання юридичної допомоги / Lawyer help bot https://t.me/UAA_Help_Bot (деталі тут https://ain.ua/2022/03/15/asocziacziya-advokativ-ukrayiny-zapustyla-bot-dlya-nadannya-yurydychnoyi-dopomogy-%ef%bf%bc/)
+
+## Медична допомога / Medical help
+* Турбота - медичний бот, який знаходить лікарів для пацієнтів / Telemedicine bot https://t.me/Doc2rbot
+* Бот помічник для надання першої домедичної допомоги / First aid bot https://t.me/FirstAidRobot
+* Додаток Viveo / Viveo app https://viveohealth.com/free-online-doctor-consultation-for-ukraine/
+* Додаток Doctor online / Doctor online app [Android](https://play.google.com/store/apps/details?id=care.telemed.patient) [iOS](https://apps.apple.com/ua/app/doctor-online-telemedicine/id1483135634)
+* Додаток EKIMO / EKIMO app https://ain.ua/2022/03/15/gruzynska-czyfrova-medychna-platforma-ekimo-vidkryvaye-svoyi-poslugy-dlya-gromadyan-ukrayiny-na-bezkoshtovnij-osnovi/
 
 
 # Біженці / Refugees
@@ -103,6 +113,7 @@
 * Канал з водіями, які пропонують допомогу / Telegram channel with drivers who can help https://t.me/pick_up_ukraine/2
 * Сайт, де можна знайти водіїв (категорія "транспорт") / A website, where you can find a driver (pick "transport" category) https://potreba.org/
 * Міжміська евакуація з Uklon / Evacuation between cities with Uklon https://t.me/crisis2022/3347
+* Евакуація з Харкова / Evacuation from Kharkiv https://www.instagram.com/rescue.now/
 
 ### 🇪🇺ЄС / EU
 * Доїхати від польського кордону https://www.facebook.com/groups/expatrepublic/posts/7197678470274275/
@@ -116,6 +127,8 @@
 * https://mapahelp.me/
 * https://icanhelp.host/
 * https://housesforukraine.eu/
+* https://www.ukrainetakeshelter.com/
+* 5 ночей в готелях мережі Hilton / 5 nights in Hilton hotel chain for Ukrainians https://193land.com/hilton-free-roms-for-ukraine
 
 ## Детально по країнам / In detail per country 
 * Телеграм-чати по різним країнам https://www.facebook.com/permalink.php?story_fbid=1653440831683585&id=100010530519065
@@ -154,11 +167,13 @@
 * Де розміщують українців / Housing for UA refugees https://www.nalog.nl/news/2022/03/14/15468/
 * ГО Українці в Нідерландах / NGO Ukrainians in Netherlands https://www.ukrainians.nl/language/en/
 * Телеграм-чат Українці в Нідерландах / Telegram-chat for Ukrainians in NL https://t.me/chat_ukrainians_nl
+* FB-група для пошуку житла / FB group for housing search https://www.facebook.com/groups/683253849468899/
+* Whatsapp-chat https://chat.whatsapp.com/DVLiXY84mf90adJUfablNG
 * Телеграм-канал з корисними підбірками для українців (школи, фінанси і т.д.) / Telegram-channel with up to date info https://t.me/nalognl
 * Ви добрались до Нідерландів, що далі? / You;ve arrived to NL, what's next? https://livinginholland.blog/pervoe_ukr_nl/
 * Про особливий статус українців та що робити далі / About status of temporary protection and what's next https://www.nalog.nl/news/2022/03/04/osoblivij-status-ukra%D1%97nciv-u-es-pravo-na-zhitlo-ta-robotu-vidpovidi-na-najvazhlivishi-zapitannya/
 *  Допомога біженцям / Help for refugees https://www.vluchtelingenwerk.nl/nl/steun-oekraiense-vluchtelingen
-* Інформація для новоприбулих в NL / Info for those who just  arrived to NL https://docs.google.com/document/d/1qhGBEe0K034zdOA1aBzYwFjzJDNx5Hb8tgByBekW2E4/edit
+* Інформація для новоприбулих в NL / Info for those who just arrived to NL https://docs.google.com/document/d/1qhGBEe0K034zdOA1aBzYwFjzJDNx5Hb8tgByBekW2E4/edit
 https://takecarebnb.org/en/
 * FAQ для приїжджих / FAQ for those who just arrived https://docs.google.com/document/d/15Uv1HC7NDhedTzMRMJkDq1MWW5sL-Dxk/edit
 * Можливість відкрити безкоштовний банківський акаунт в Bunq / Ability to open free bank account in Bunq https://together.bunq.com/d/47908-update-for-ukrainian-refugees
@@ -221,6 +236,7 @@ https://takecarebnb.org/en/
 *  Лабораторії, які готові прийняти українських вчених / Labs supporting Ukrainian scientists https://docs.google.com/spreadsheets/d/1HqTKukfJGpmowQnSh4CoFn3T6HXcNS1T1pK-Xx9CknQ/htmlview#gid=320641758
 *  Підтримка для студентів музичних напрямків / Support for students of music education institutions https://aec-music.eu/supporting-ukrainian-refugees/
 *  YAGP helps Ukrainian ballet students https://yagp.org/yagp-hotline-to-help-ukrainian-dancers-english/
+*  support for Ukrainian ballroom dancers https://www.instagram.com/p/Ca0X4Xfulc4/
 
 ## 🧠 Психологічна допомога / Psychological assistance
 * Підбірка / Compilation https://www.facebook.com/centr.sens/posts/4955067847873102
