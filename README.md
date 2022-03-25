@@ -56,6 +56,7 @@
 * Фонд Сергія Притули / Serhii Prytula fund https://www.facebook.com/serhiyprytula/posts/509101497241122
 * Гуманітарний коридор з ЄС залізницею / Railway humanitarian corridor http://railwayhelpsukraine.org/
 * Прийом гуманітарної допомоги із-за кордону від Meest express / Send humanitarian help from abroad with Meest Express https://ua.meest.com/news/novini-kompanii/gumanitra-posta-meest-z-evropi-kanadi-ta-ssa?utm_source=meest_help&utm_medium=media&utm_campaign=mesthelp
+* Склад від Amazon / Amazon storage for humanitarian aid https://www.aboutamazon.co.uk/news/community/supporting-humanitarian-efforts-in-ukraine#23march
 
 ## 🤖 Чат-боти / Chat-bots
 * Бот для блокування сервісів дезінформації / Block desinformation https://t.me/stopdrugsbot
@@ -236,7 +237,8 @@ https://takecarebnb.org/en/
 *  Лабораторії, які готові прийняти українських вчених / Labs supporting Ukrainian scientists https://docs.google.com/spreadsheets/d/1HqTKukfJGpmowQnSh4CoFn3T6HXcNS1T1pK-Xx9CknQ/htmlview#gid=320641758
 *  Підтримка для студентів музичних напрямків / Support for students of music education institutions https://aec-music.eu/supporting-ukrainian-refugees/
 *  YAGP helps Ukrainian ballet students https://yagp.org/yagp-hotline-to-help-ukrainian-dancers-english/
-*  support for Ukrainian ballroom dancers https://www.instagram.com/p/Ca0X4Xfulc4/
+*  Support for Ukrainian ballroom dancers https://www.instagram.com/p/Ca0X4Xfulc4/
+*  Допомога студентам в Нідерландах / Help for Ukrainian students in the Netherlands https://nltimes.nl/2022/03/24/ukrainian-students-may-able-get-financial-help-dutch-education-institutions
 
 ## 🧠 Психологічна допомога / Psychological assistance
 * Підбірка / Compilation https://www.facebook.com/centr.sens/posts/4955067847873102
