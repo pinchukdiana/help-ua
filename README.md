@@ -191,6 +191,7 @@ https://takecarebnb.org/en/
 * Допомога з житлом https://www.czechhomesforukraine.com/uk 
 * Допомога в пошуку житла https://www.facebook.com/zdenek.hrib.primator/posts/994184077857927
 * Допомога з транспортом https://www.facebook.com/zhanna.romanchenkokapurova/posts/5288109521222138
+* Гайд для приїжджих https://dou.ua/forums/topic/37406/
 
 ### 🇭🇺 Угорщина / Hungary 
 *  https://ukrainehelp.hu/uk/
