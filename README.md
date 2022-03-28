@@ -23,6 +23,7 @@
 ## ❗️ Підбірки / Compilations
 ❗️ Скоріше за все, відповіді  на ваші питання **вже є тут** / Probably your question is **already answered here**
 * https://how-to-help-ukraine-now.super.site/
+* https://ukraineisforever.notion.site/ukraineisforever/925902b5c48a4d7589fdeff2deba6233
 * https://viyna.net/
 * https://betha.in.ua/
 * https://www.standwithukraine.how/
@@ -202,6 +203,7 @@ https://takecarebnb.org/en/
 * Табличка з вакансіями, більшість в Берліні / Spreadsheets with open positions, mostly Berlin https://docs.google.com/spreadsheets/u/1/d/1o0_Tio_irbhlfHsomimJCEfYLgj47IZJooTWsCNJhH0/htmlview#gid=0
 * Група взаємодопомоги / Helpful group https://www.facebook.com/groups/718925522598800/
 * Група з житлом / Housing group https://www.facebook.com/groups/288084393475832/
+* Робота для українців / Work for Ukrainians http://jobsforukraine.heyjobs.co/
 
 ### 🇷🇴 Румунія / Romania
 * https://dopomoha.ro/
