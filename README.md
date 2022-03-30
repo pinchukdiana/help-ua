@@ -77,6 +77,7 @@
 * Додаток Viveo / Viveo app https://viveohealth.com/free-online-doctor-consultation-for-ukraine/
 * Додаток Doctor online / Doctor online app [Android](https://play.google.com/store/apps/details?id=care.telemed.patient) [iOS](https://apps.apple.com/ua/app/doctor-online-telemedicine/id1483135634)
 * Додаток EKIMO / EKIMO app https://ain.ua/2022/03/15/gruzynska-czyfrova-medychna-platforma-ekimo-vidkryvaye-svoyi-poslugy-dlya-gromadyan-ukrayiny-na-bezkoshtovnij-osnovi/
+* Інформація про лікування в нідерландському інституті раку / Treatment in NL cancer institute https://drive.google.com/drive/folders/1g0eYBPyFfh7KbPXDfXHw85vpS80ap81d?fbclid=IwAR0bEgaBTwalFyF33D0P174XSZlH4dd1FUDin0DiV_DnweUM_EVm2JsV7Cs
 
 
 # Біженці / Refugees
@@ -184,6 +185,7 @@ https://takecarebnb.org/en/
 * 1000 готельних місць для біженців з України в Амстердамі / 1000 hotel beds for Ukrainian refugees in Amsterdam https://www.dutchnews.nl/news/2022/03/amsterdam-secures-1000-hotel-beds-for-ukrainian-refugees/
 * Логістика, контакти водіїв / Logistics, contacts of drivers https://docs.google.com/spreadsheets/d/1-1vUlb-IUyk3lH-PgEkMFOiMPBd3a23lt4wYj7cF3Bo/edit#gid=2012219213
 * Animal help / Допомога для тварин https://www.hulpvoordierenuitoekraine.nl/
+* Інформація про лікування в нідерландському інституті раку / Treatment in NL cancer institute https://drive.google.com/drive/folders/1g0eYBPyFfh7KbPXDfXHw85vpS80ap81d?fbclid=IwAR0bEgaBTwalFyF33D0P174XSZlH4dd1FUDin0DiV_DnweUM_EVm2JsV7Cs
 
 ### 🇨🇿 Чехія / Czech Republic
 * Офіційна інформація https://www.mvcr.cz/clanek/informace-pro-obcany-ukrajiny.aspx?q=Y2hudW09Mg%3d%3d
