@@ -135,6 +135,7 @@
 
 ## Детально по країнам / In detail per country 
 * Телеграм-чати по різним країнам https://www.facebook.com/permalink.php?story_fbid=1653440831683585&id=100010530519065
+* Великий список корисного по багатьом країнам / Big list of useful links for different countries https://swg.notion.site/Support-Ukraine-shared-5d3f84d6015c448ab644886e807f2ca7
 
 ### 🇺🇦 Україна / Ukraine
 * Житло в Україні / Temporary housing in Ukraine https://prykhystok.in.ua/
